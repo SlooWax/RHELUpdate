@@ -5,7 +5,7 @@ Im tired of updating the system every time I install it, so I need to start auto
 How To Run
 
 ```
-wget https://raw.githubusercontent.com/SlooWax/RockyUpdate/main/install.sh -O install.sh && bash install.sh
+curl https://raw.githubusercontent.com/SlooWax/RHELUpdate/main/install.sh -O install.sh && bash install.sh
 ```
 
 What You Install With This Script:
