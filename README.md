@@ -5,7 +5,7 @@ Im tired of updating the system every time I install it, so I need to start auto
 How To Run
 
 ```
-curl -o install.shhttps://raw.githubusercontent.com/SlooWax/RHELUpdate/main/install.sh && bash install.sh
+curl -o install.sh https://raw.githubusercontent.com/SlooWax/RHELUpdate/main/install.sh && bash install.sh
 ```
 
 What You Install With This Script:
